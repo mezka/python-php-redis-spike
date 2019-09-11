@@ -1,0 +1,6 @@
+{
+    "name": "mezka/php-redis-spike",
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
