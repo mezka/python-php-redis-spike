@@ -1,6 +1,5 @@
 import redis
 import subprocess
-import time 
 
 r = redis.StrictRedis()
 
